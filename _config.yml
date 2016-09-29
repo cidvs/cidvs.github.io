@@ -1,0 +1,39 @@
+# Site settings
+title: Latim
+email: pranav@maangalabs.com
+description: Laboratorio Latim - IFCE Maracanaú.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://latim.ifce.br" # the base hostname & protocol for your site
+#twitter
+twitter_username: latimifce
+github_username:  cidvs
+
+#linkedin
+linkedin_username: latimifce
+
+#google analytics
+#google_analytics_id : UA-53386152-2
+#gplus
+#gplus_username: 101893920934936418705
+
+#fb_username
+fb_username: latim.ifce
+
+#permalink /blog/2014/11/11/this-is-a-sample-post
+permalink: /blog/:year/:month/:day/:title/
+# Build settings
+markdown: kramdown
+
+#Disqus configuration
+disqus_short_name: latimifce
+disqus_show_comment_count: true
+
+#Can be used for multiple author blogs ! Add name to post For more visit the sample
+authors:
+  pranavrajs:
+    display_name: Latim IFCE
+    email: latim@ifce.com
+    fb: latim.ifce
+    linkedin: latimifce
+    twitter: latimifce
+    github: cidv
